@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Technologies & Frameworks
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://ethereum.org)
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-ffffff?style=for-the-badge&logo=bitcoin&logoColor=white)](https://bitcoin.org)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-ffffff?style=for-the-badge&logo=bitcoin&logoColor=orange)](https://bitcoin.org)
 [![Docker](https://img.shields.io/badge/Docker-f6f6f6?style=for-the-badge&logo=docker)](https://www.docker.com)
 [![Proxmox](https://img.shields.io/badge/Proxmox-eeeeee?style=for-the-badge&logo=proxmox)](https://www.proxmox.com)
 [![Pandas](https://img.shields.io/badge/Pandas-0b0153?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
